@@ -1,0 +1,22 @@
+## BigBoiBoston temp testing with generic keyboards
+
+input_vendor_id = 6700
+input_product_id = 3620
+input_driver = "android"
+input_device = "SEM USB Keyboard"
+input_b_btn = "52"
+input_y_btn = "29"
+input_select_btn = "60"
+input_start_btn = "66"
+input_up_btn = "19"
+input_down_btn = "20"
+input_left_btn = "21"
+input_right_btn = "22"
+input_a_btn = "54"
+input_x_btn = "47"
+input_l_btn = "71"
+input_r_btn = "69"
+input_l2_btn = "72"
+input_r2_btn = "70"
+input_l3_btn = "44"
+input_r3_btn = "73"
